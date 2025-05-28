@@ -18,10 +18,11 @@ The first marble floor texture tile inside the Neptune Room uses an incorrect va
 
 **Expected Result:**  
 The correct corner marble floor texture tile should be applied, showing two brown triangle strips aligned properly along the adjacent walls.  
-*(See attached image: “Neptune Room 1”)*
+*(See attached image: “TR001_Neptune_Room_2.jpg”)*
 
 **Severity:** Minor
 
 **Attachment:**  
 📎 [TR001_Neptune_Room_1.jpg](./images/TR001_Neptune_Room_1.jpg)
+
 📎 [TR001_Neptune_Room_2.jpg](./images/TR001_Neptune_Room_2.jpg)
