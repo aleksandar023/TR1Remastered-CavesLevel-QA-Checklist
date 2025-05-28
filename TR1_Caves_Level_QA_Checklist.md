@@ -111,7 +111,7 @@
 | Ambient music plays properly throughout the entire level                                         |                |                |       |
 | Ambient music doesn’t overlap with other triggered SFX (secret chimes or encounter music)        |                |                |       |
 | Ambient music resumes correctly after other triggered SFX finishes playing                         |                |                |       |
-| **Pickup Items**                                                                                     | Small Medipack | Large Medipack |       |
+| **Pickup Items**                                                                                     | **Small Medipack** | **Large Medipack** |       |
 |🟥 High priority                                                                                    |                |                |       |
 | Item has a correct placement in the level (X amount)                                         |                |                |       |
 | Item can be picked up by pressing Ctrl key                                                       |                |                |       |
@@ -131,7 +131,7 @@
 | Secret chime SFX plays when entering the secret area                                                 |                |                |       |
 | Secret chime SFX only plays once per secret                                                      |                |                |       |
 | Secret chime SFX doesn’t overlap with other sounds in the level                                  |                |                |       |
-| **Enemies**                                                                                          | Bats           | Wolves         | Bears |
+| **Enemies**                                                                                          | **Bats**           | **Wolves**         | **Bears** |
 | ***Setup validation (Pre-trigger)***                                                                   |                |                |       |
 |🟥 High priority                                                                                    |                |                |       |
 | Enemy placements are correct in the level                                                        |                |                |       |
