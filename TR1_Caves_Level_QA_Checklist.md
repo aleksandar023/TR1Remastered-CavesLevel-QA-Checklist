@@ -48,17 +48,17 @@
 | \- *Medipacks used*                                                                                |                |                |       |
 | \- *Distance travelled*                                                                            |                |                |       |
 | Pressing Enter key loads next level                                                              |                |                |       |
-| Static Level Geometry                                                                            |                |                |       |
-| General Geometry                                                                                 |                |                |       |
+| **Static Level Geometry**                                                                            |                |                |       |
+| ***General Geometry***                                                                                 |                |                |       |
 | High priority                                                                                    |                |                |       |
 | Level layout matches the intended design                                                         |                |                |       |
 | No missing/misplaced geometry                                                                    |                |                |       |
 | Geometry align properly (no gaps/overlaps)                                                       |                |                |       |
-| Collision & Interaction                                                                          |                |                |       |
+| ***Collision & Interaction***                                                                          |                |                |       |
 | High priority                                                                                    |                |                |       |
 | Geometry has correct collision (no walk-through/invisible walls)                                 |                |                |       |
 | Intended ledges are reachable                                                                    |                |                |       |
-| Textures                                                                                         |                |                |       |
+| ***Textures***                                                                                         |                |                |       |
 | High priority                                                                                    |                |                |       |
 | Textures are applied to surfaces as intended by design                                           |                |                |       |
 | Textures are mapped properly across the surface (no stretching or misalignment)                  |                |                |       |
@@ -66,7 +66,7 @@
 | Medium priority                                                                                  |                |                |       |
 | Seams are not visible between adjacent textures                                                  |                |                |       |
 | No visual artifacts are present (z-fighting, etc)                                                |                |                |       |
-| Props (Non-Interactable objects)                                                                 |                |                |       |
+| **Props (Non-Interactable objects)**                                                                 |                |                |       |
 | High priority                                                                                    |                |                |       |
 | Props are placed as intended                                                                     |                |                |       |
 | Props are placed correctly on the surface (no floating/clipping/sinking)                         |                |                |       |
@@ -74,7 +74,7 @@
 | Prop models are displayed correctly                                                              |                |                |       |
 | Prop model has correct collision (if applicable)                                                 |                |                |       |
 | Props models are textured properly                                                               |                |                |       |
-| Lighting                                                                                         |                |                |       |
+| **Lighting**                                                                                         |                |                |       |
 | High priority                                                                                    |                |                |       |
 | Light sources are placed as designed                                                             |                |                |       |
 | Correct light intensity (not too dark/bright)                                                    |                |                |       |
@@ -84,14 +84,14 @@
 | No visible light glitches (e.g., flickering or popping)                                          |                |                |       |
 | Pickups/interactable objects in dark areas are visible                                           |                |                |       |
 | Lara's model is consistently lit across light zones                                              |                |                |       |
-| Skybox                                                                                           |                |                |       |
+| **Skybox**                                                                                           |                |                |       |
 | High priority                                                                                    |                |                |       |
 | Skybox is displayed correctly                                                                    |                |                |       |
 | Medium priority                                                                                  |                |                |       |
 | Skybox is mapped properly (no stretching or distortion)                                          |                |                |       |
 | Skybox resolution is appropriate (not pixelated or blurry)                                       |                |                |       |
 | Skybox has no visual artifacts (seams, flickering, etc.)                                         |                |                |       |
-| Visual Effects (VFX)                                                                             |                |                |       |
+| **Visual Effects (VFX)**                                                                             |                |                |       |
 | High priority                                                                                    |                |                |       |
 | Ray lights are placed as intended                                                                |                |                |       |
 | Ray light direction and beam shape match the intended design                                     |                |                |       |
@@ -101,17 +101,17 @@
 | Ray light does not clip through geometry or create visual glitches                               |                |                |       |
 | Snow particle textures are displayed correctly                                                   |                |                |       |
 | Snow particles move at the predefined speed                                                      |                |                |       |
-| Camera                                                                                           |                |                |       |
+| **Camera**                                                                                           |                |                |       |
 | High priority                                                                                    |                |                |       |
 | Camera remains consistently positioned behind Lara during free movement                          |                |                |       |
 | Camera pans to key points when triggered                                                         |                |                |       |
 | Camera panning is one-time only (trigger deactivates after use)                                  |                |                |       |
-| Ambient music                                                                                    |                |                |       |
+| **Ambient music**                                                                                    |                |                |       |
 | High priority                                                                                    |                |                |       |
 | Ambient music plays properly throughout the entire level                                         |                |                |       |
 | Ambient music doesn’t overlap with other triggered SFX (secret chimes or encounter music)        |                |                |       |
 | Ambient music resumes correctly after other triggered SFX finishes playing                         |                |                |       |
-| Pickup Items                                                                                     | Small Medipack | Large Medipack |       |
+| **Pickup Items**                                                                                     | Small Medipack | Large Medipack |       |
 | High priority                                                                                    |                |                |       |
 | Item(s) have a correct placement in the level (X amount)                                         |                |                |       |
 | Item can be picked up by pressing Ctrl key                                                       |                |                |       |
@@ -122,7 +122,7 @@
 | Item model uses an appropriate texture                                                           |                |                |       |
 | Item model texture is displayed without visual artifacts (visible seams, UV mapping issues, etc) |                |                |       |
 | Hand icon appears when an item is in range for pickup                                            |                |                |       |
-| Secret areas                                                                                     |                |                |       |
+| **Secret areas**                                                                                     |                |                |       |
 | High priority                                                                                    |                |                |       |
 | All secret areas are reachable                                                                   |                |                |       |
 | Secrets include proper pickups                                                                   |                |                |       |
@@ -131,8 +131,8 @@
 | Secret chime SFX plays when entering secret area                                                 |                |                |       |
 | Secret chime SFX only plays once per secret                                                      |                |                |       |
 | Secret chime SFX doesn’t overlap with other sounds in the level                                  |                |                |       |
-| Enemies                                                                                          | Bats           | Wolves         | Bears |
-| Setup validation (Pre-trigger)                                                                   |                |                |       |
+| **Enemies**                                                                                          | Bats           | Wolves         | Bears |
+| ***Setup validation (Pre-trigger)***                                                                   |                |                |       |
 | High priority                                                                                    |                |                |       |
 | Enemy placements are correct in the level                                                        |                |                |       |
 | Enemy is initially inactive before being triggered                                               |                |                |       |
@@ -141,7 +141,7 @@
 | Enemy has a proper hitbox                                                                        |                |                |       |
 | Enemy model has a correct texture                                                                |                |                |       |
 | Enemy model texture has no visual artifacts (visible seams, UV mapping issues, etc)              |                |                |       |
-| Enemy trigger logic                                                                              |                |                |       |
+| ***Enemy trigger logic***                                                                              |                |                |       |
 | High priority                                                                                    |                |                |       |
 | Trigger placed at the correct location                                                           |                |                |       |
 | Enemy activates by a correct trigger (one or more enemies)                                       |                |                |       |
@@ -155,7 +155,7 @@
 | No model stretching/distortion during animation                                                  |                |                |       |
 | Enemy navigates terrain properly (no clipping with the environment)                             |                |                |       |
 | Enemy follows Lara through doors                                                                  |                |                |       |
-| Combat                                                                                           |                |                |       |
+| ***Combat***                                                                                           |                |                |       |
 | High priority                                                                                    |                |                |       |
 | Enemies attack Lara                                                                              |                |                |       |
 | Correct amount of damage is dealt to Lara's health upon attack/collision                         |                |                |       |
@@ -165,7 +165,7 @@
 | Medium priority                                                                                  |                |                |       |
 | Enemy Attack animation is synced with damage output                                              |                |                |       |
 | Attack SFX plays properly                                                                        |                |                |       |
-| Enemy health and death                                                                           |                |                |       |
+| ***Enemy health and death***                                                                           |                |                |       |
 | High priority                                                                                    |                |                |       |
 | Enemy has a correct amount of health                                                            |                |                |       |
 | Lara deals an appropriate amount of damage to an enemy                                              |                |                |       |
@@ -175,14 +175,14 @@
 | Death SFX plays properly                                                                         |                |                |       |
 | Enemy model stays collapsed after death                                                          |                |                |       |
 | Enemy loses collision box after death                                                            |                |                |       |
-| Switches and corresponding doors                                                                 |                |                |       |
+| **Switches and corresponding doors**                                                                 |                |                |       |
 | High priority                                                                                    |                |                |       |
 | Lara can interact with the switch by pressing Ctrl key                                         |                |                |       |
 | Switch opens the correct door                                                                    |                |                |       |
 | Camera frames door (if applicable)                                                               |                |                |       |
 | Door stays opened for correct duration (if timed)                                                |                |                |       |
 | Switch can be reset (if applicable)                                                              |                |                |       |
-| \- Resetting closes door                                                                         |                |                |       |
+| \- *Resetting closes door*                                                                         |                |                |       |
 | Medium priority                                                                                  |                |                |       |
 | Switch model is displayed properly                                                               |                |                |       |
 | Switch model has a proper collision box                                                          |                |                |       |
@@ -198,7 +198,7 @@
 | Door texture has no visual artifacts (visible seams, UV mapping issues, etc)                     |                |                |       |
 | Door opens up with a proper SFX                                                                  |                |                |       |
 | Door animation and SFX sync correctly                                                            |                |                |       |
-| Pressure Plates and corresponding doors                                                          |                |                |       |
+| **Pressure Plates and corresponding doors**                                                          |                |                |       |
 | High priority                                                                                    |                |                |       |
 | Door opens when stepping on plate                                                                |                |                |       |
 | Door remains open while on plate                                                                 |                |                |       |
@@ -218,7 +218,7 @@
 | Door texture has no visual artifacts (visible seams, UV mapping issues, etc)                     |                |                |       |
 | Door opens up with a proper SFX                                                                  |                |                |       |
 | Door animation and SFX sync correctly                                                            |                |                |       |
-| Dart trap                                                                                        |                |                |       |
+| **Dart trap**                                                                                        |                |                |       |
 | High priority                                                                                    |                |                |       |
 | Darts activate on trigger                                                                        |                |                |       |
 | Dart deal an appropriate amount of damage on contact                                                |                |                |       |
@@ -232,14 +232,14 @@
 | Smoke VFX appears at dart origin                                                                 |                |                |       |
 | Proper SFX appears when firing darts                                                             |                |                |       |
 | Spark VFX appears on wall impact                                                                 |                |                |       |
-| Achievemenets                                                                                    |                |                |       |
+| **Achievements**                                                                                    |                |                |       |
 | High priority                                                                                    |                |                |       |
 | Correct achievement(s) trigger at appropriate moments                                            |                |                |       |
 | Achievements trigger only once per event                                                         |                |                |       |
 | Medium priority                                                                                  |                |                |       |
 | Achievement icon displays correctly without graphical issues                                     |                |                |       |
 | Achievement text appears as intended without typos                                               |                |                |       |
-| Performance                                                                                      |                |                |       |
+| **Performance**                                                                                      |                |                |       |
 | High priority                                                                                    |                |                |       |
 | Level loads within acceptable time                                                               |                |                |       |
 | FPS is stable throughout level                                                                   |                |                |       |
