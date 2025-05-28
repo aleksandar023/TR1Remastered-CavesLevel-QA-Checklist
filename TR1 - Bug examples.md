@@ -23,4 +23,4 @@ The correct corner marble floor texture tile should be applied, showing two brow
 **Severity:** Minor
 
 **Attachment:**  
-📎 Neptune Room 1 (reference image)
+📎 [![Neptune Room Thumbnail](./TR001_Neptune Room_1.JPG)](./TR001_Neptune Room_1.JPG)
