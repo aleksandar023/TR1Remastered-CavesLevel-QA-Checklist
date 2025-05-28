@@ -24,7 +24,7 @@
 | \- *via Options > Game menu*                                                                     |                |                |       |
 | \- *via shortcut (F5)*                                                                           |                |                |       |
 | The game can be saved in an empty slot                                                               |                |                |       |
-| The game can overwrite previous save                                                               |                |                |       |
+| The game can overwrite previous the save                                                               |                |                |       |
 | The save file name corresponds to the level name                                                     |                |                |       |
 | The game can be loaded                                                                               |                |                |       |
 | \- *via Options > Game menu*                                                                       |                |                |       |
@@ -72,7 +72,7 @@
 | Props are placed correctly on the surface (no floating/clipping/sinking)                         |                |                |       |
 |🟨 Medium priority                                                                                  |                |                |       |
 | Prop models are displayed correctly                                                              |                |                |       |
-| Prop model has correct collision (if applicable)                                                 |                |                |       |
+| Prop models have correct collision (if applicable)                                                 |                |                |       |
 | Props models are textured properly                                                               |                |                |       |
 | **Lighting**                                                                                         |                |                |       |
 |🟥 High priority                                                                                    |                |                |       |
@@ -177,7 +177,7 @@
 | Enemy loses collision box after death                                                            |                |                |       |
 | **Switches and corresponding doors**                                                                 |                |                |       |
 |🟥 High priority                                                                                    |                |                |       |
-| Lara can interact with the switch by pressing Ctrl key                                         |                |                |       |
+| Lara can interact with the switch by pressing the Ctrl key                                         |                |                |       |
 | Switch opens the correct door                                                                    |                |                |       |
 | Camera frames door (if applicable)                                                               |                |                |       |
 | The door stays open for the correct duration (if timed)                                                |                |                |       |
