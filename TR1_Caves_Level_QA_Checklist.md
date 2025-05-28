@@ -65,7 +65,7 @@
 | Textures are at the correct resolution (no blurry or pixelated textures)                         |                |                |       |
 | Medium priority                                                                                  |                |                |       |
 | Seams are not visible between adjacent textures                                                  |                |                |       |
-| No visual artifacts are present (z fighting, etc)                                                |                |                |       |
+| No visual artifacts are present (z-fighting, etc)                                                |                |                |       |
 | Props (Non-Interactable objects)                                                                 |                |                |       |
 | High priority                                                                                    |                |                |       |
 | Props are placed as intended                                                                     |                |                |       |
@@ -110,7 +110,7 @@
 | High priority                                                                                    |                |                |       |
 | Ambient music plays properly throughout the entire level                                         |                |                |       |
 | Ambient music doesn’t overlap with other triggered SFX (secret chimes or encounter music)        |                |                |       |
-| Ambient music resumes correctly after other triggered SFX finish playing                         |                |                |       |
+| Ambient music resumes correctly after other triggered SFX finishes playing                         |                |                |       |
 | Pickup Items                                                                                     | Small Medipack | Large Medipack |       |
 | High priority                                                                                    |                |                |       |
 | Item(s) have a correct placement in the level (X amount)                                         |                |                |       |
@@ -153,8 +153,8 @@
 | Movement animation plays properly                                                                |                |                |       |
 | Movement SFX plays properly                                                                      |                |                |       |
 | No model stretching/distortion during animation                                                  |                |                |       |
-| Enemy navigates terrain properly (no clipping with the environement)                             |                |                |       |
-| Enemy follow Lara through doors                                                                  |                |                |       |
+| Enemy navigates terrain properly (no clipping with the environment)                             |                |                |       |
+| Enemy follows Lara through doors                                                                  |                |                |       |
 | Combat                                                                                           |                |                |       |
 | High priority                                                                                    |                |                |       |
 | Enemies attack Lara                                                                              |                |                |       |
@@ -167,8 +167,8 @@
 | Attack SFX plays properly                                                                        |                |                |       |
 | Enemy health and death                                                                           |                |                |       |
 | High priority                                                                                    |                |                |       |
-| Enemy have a correct amount of health                                                            |                |                |       |
-| Lara deals an appropriate amount of damage to enemy                                              |                |                |       |
+| Enemy has a correct amount of health                                                            |                |                |       |
+| Lara deals an appropriate amount of damage to an enemy                                              |                |                |       |
 | Enemy dies when health is depleted                                                               |                |                |       |
 | Medium priority                                                                                  |                |                |       |
 | Death animation plays properly                                                                   |                |                |       |
@@ -177,7 +177,7 @@
 | Enemy loses collision box after death                                                            |                |                |       |
 | Switches and corresponding doors                                                                 |                |                |       |
 | High priority                                                                                    |                |                |       |
-| Player can interact with the switch by pressing Ctrl key                                         |                |                |       |
+| Lara can interact with the switch by pressing Ctrl key                                         |                |                |       |
 | Switch opens the correct door                                                                    |                |                |       |
 | Camera frames door (if applicable)                                                               |                |                |       |
 | Door stays opened for correct duration (if timed)                                                |                |                |       |
@@ -221,8 +221,8 @@
 | Dart trap                                                                                        |                |                |       |
 | High priority                                                                                    |                |                |       |
 | Darts activate on trigger                                                                        |                |                |       |
-| Dart deal appropriate amount of damage on contact                                                |                |                |       |
-| Dart deactivate when Lara moves out of range                                                     |                |                |       |
+| Dart deal an appropriate amount of damage on contact                                                |                |                |       |
+| Dart deactivates when Lara moves out of range                                                     |                |                |       |
 | Darts traverse at a correct speed                                                                |                |                |       |
 | Medium priority                                                                                  |                |                |       |
 | Dart model is displayed properly                                                                 |                |                |       |
