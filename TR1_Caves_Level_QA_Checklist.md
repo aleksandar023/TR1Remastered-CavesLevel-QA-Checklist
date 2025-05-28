@@ -60,9 +60,9 @@
 | Intended ledges are reachable                                                                    |                |                |       |
 | ***Textures***                                                                                         |                |                |       |
 |🟥 High priority                                                                                    |                |                |       |
-| Textures are applied to surfaces as intended                                           |                |                |       |
+| Textures are applied to appropriate surfaces                                           |                |                |       |
 | Textures are mapped properly across the surface (no stretching or misalignment)                  |                |                |       |
-| Textures are at the correct resolution (no blurry or pixelated textures)                         |                |                |       |
+| Textures are displayed at the correct resolution (no blurry or pixelated textures)                         |                |                |       |
 |🟨 Medium priority                                                                                  |                |                |       |
 | Seams are not visible between adjacent textures                                                  |                |                |       |
 | No visual artifacts are present (z-fighting, etc)                                                |                |                |       |
@@ -113,7 +113,7 @@
 | Ambient music resumes correctly after other triggered SFX finishes playing                         |                |                |       |
 | **Pickup Items**                                                                                     | Small Medipack | Large Medipack |       |
 |🟥 High priority                                                                                    |                |                |       |
-| Item(s) have a correct placement in the level (X amount)                                         |                |                |       |
+| Item has a correct placement in the level (X amount)                                         |                |                |       |
 | Item can be picked up by pressing Ctrl key                                                       |                |                |       |
 | Item is displayed in the lower-right corner of the screen when collected                         |                |                |       |
 | Item is added to inventory correctly                                                             |                |                |       |
@@ -125,7 +125,7 @@
 | **Secret areas**                                                                                     |                |                |       |
 |🟥 High priority                                                                                    |                |                |       |
 | All secret areas are reachable                                                                   |                |                |       |
-| Secrets include proper pickups                                                                   |                |                |       |
+| Secret areas include proper pickups                                                                   |                |                |       |
 |🟨 Medium priority                                                                                  |                |                |       |
 | Secret count updates on HUD/stat screen                                                          |                |                |       |
 | Secret chime SFX plays when entering the secret area                                                 |                |                |       |
@@ -143,10 +143,10 @@
 | The enemy model texture has no visual artifacts (visible seams, UV mapping issues, etc)              |                |                |       |
 | ***Enemy trigger logic***                                                                              |                |                |       |
 |🟥 High priority                                                                                    |                |                |       |
-| Trigger placed at the correct location                                                           |                |                |       |
+| Enemy trigger is placed at the correct location                                                           |                |                |       |
 | Enemy activates by a correct trigger (one or more enemies)                                       |                |                |       |
-| Trigger activates only once                                                                      |                |                |       |
-| Medium priority                                                                                  |                |                |       |
+| Enemy trigger activates only once                                                                      |                |                |       |
+|🟨 Medium priority                                                                                  |                |                |       |
 | Activation trigger does not overlap unrelated actions                                            |                |                |       |
 | Enemy trigger SFX plays correctly (if any)                                                       |                |                |       |
 | Enemy paths towards Lara                                                                         |                |                |       |
@@ -162,7 +162,7 @@
 | Lara automatically targets the closest enemy                                                     |                |                |       |
 | Lara's health bar updates in real-time (damage/healing)                                          |                |                |       |
 | Lara dies when health depletes fully                                                             |                |                |       |
-| Medium priority                                                                                  |                |                |       |
+|🟨 Medium priority                                                                                  |                |                |       |
 | Enemy Attack animation is synced with damage output                                              |                |                |       |
 | Attack SFX plays properly                                                                        |                |                |       |
 | ***Enemy health and death***                                                                           |                |                |       |
