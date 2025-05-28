@@ -1,8 +1,5 @@
 ### 🐞 Bug Report: TR001 – Incorrect Floor Texture Tile in Neptune Room (St. Francis Folly)
 
-**Level:** St. Francis Folly  
-**Graphics Mode:** Modern (F1)
-
 **Steps to Reproduce:**
 1. Launch *Tomb Raider I–III Remastered*
 2. Press `F1` to switch to Modern Graphics
