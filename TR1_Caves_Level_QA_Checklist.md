@@ -5,48 +5,48 @@
 
 ---
 
-| Basic Level Functionality                                                                        | Status         |                |       |
+|Basic Level Functionality                                                                      | Status         |                |       |
 | ------------------------------------------------------------------------------------------------ | -------------- | -------------- | ----- |
-| FMV and level start                                                                              |                |                |       |
-| High priority                                                                                    |                |                |       |
+| **FMV and level start**                                                                              |                |                |       |
+|🟥 High priority                                                                                    |                |                |       |
 | FMV loads properly before the level                                                              |                |                |       |
 | FMV is skippable (if applicable)                                                                 |                |                |       |
 | Level loads correctly                                                                            |                |                |       |
 | Lara faces the correct direction at level start                                                  |                |                |       |
 | Esc key opens the main menu                                                                      |                |                |       |
 | Inventory and weapons menus display correct items                                                |                |                |       |
-| Medium priority                                                                                  |                |                |       |
+| 🟨Medium priority                                                                                  |                |                |       |
 | Audio syncs with video in FMV                                                                    |                |                |       |
 | FMV plays without issues (no frame drops or stuttering)                                          |                |                |       |
-| Load / Save / Exit                                                                               |                |                |       |
+| **Load / Save / Exit**                                                                               |                |                |       |
 | High priority                                                                                    |                |                |       |
 | Game can be saved                                                                                |                |                |       |
-| \- via Options > Game menu                                                                       |                |                |       |
-| \- via shortcut (F5)                                                                             |                |                |       |
+| \- *via Options > Game menu*                                                                     |                |                |       |
+| \- *via shortcut (F5)*                                                                           |                |                |       |
 | Game can be saved in an empty slot                                                               |                |                |       |
 | Game can overwrite previous save                                                                 |                |                |       |
 | Save file name corresponds to the level name                                                     |                |                |       |
 | Game can be loaded                                                                               |                |                |       |
-| \- via Options > Game menu                                                                       |                |                |       |
-| \- via shortcut (F9)                                                                             |                |                |       |
+| \- *via Options > Game menu*                                                                       |                |                |       |
+| \- *via shortcut (F9)*                                                                           |                |                |       |
 | Loaded game resumes exact state                                                                  |                |                |       |
-| \- Lara’s position                                                                               |                |                |       |
-| \- Health                                                                                        |                |                |       |
-| \- Inventory items                                                                               |                |                |       |
-| \- Enemy state                                                                                   |                |                |       |
+| \- *Lara’s position*                                                                               |                |                |       |
+| \- *Health*                                                                                        |                |                |       |
+| \- *Inventory items*                                                                               |                |                |       |
+| \- *Enemy state*                                                                                   |                |                |       |
 | "Exit to title" works from the Options > Game menu                                               |                |                |       |
-| Level Completion                                                                                 |                |                |       |
+| **Level Completion**                                                                                 |                |                |       |
 | High priority                                                                                    |                |                |       |
 | Level is completable by reaching the exit trigger                                                |                |                |       |
 | Stats screen displays correctly:                                                                 |                |                |       |
-| \- Level name                                                                                    |                |                |       |
-| \- Time taken                                                                                    |                |                |       |
-| \- Secrets found                                                                                 |                |                |       |
-| \- Pickups                                                                                       |                |                |       |
-| \- Kills                                                                                         |                |                |       |
-| \- Ammo used / hits                                                                              |                |                |       |
-| \- Medipacks used                                                                                |                |                |       |
-| \- Distance travelled                                                                            |                |                |       |
+| \- *Level name*                                                                                    |                |                |       |
+| \- *Time taken*                                                                                    |                |                |       |
+| \- *Secrets found*                                                                                 |                |                |       |
+| \- *Pickups*                                                                                       |                |                |       |
+| \- *Kills*                                                                                         |                |                |       |
+| \- *Ammo used / hits*                                                                              |                |                |       |
+| \- *Medipacks used*                                                                                |                |                |       |
+| \- *Distance travelled*                                                                            |                |                |       |
 | Pressing Enter key loads next level                                                              |                |                |       |
 | Static Level Geometry                                                                            |                |                |       |
 | General Geometry                                                                                 |                |                |       |
