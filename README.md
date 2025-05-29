@@ -18,25 +18,26 @@ The goal was to build a universal QA framework that can be reused and expanded t
 
 ### ✅ Checklist Design Principles
 
-* 🎯 One Item = One Check – Each test case targets a single, isolated behaviour for easier tracking and debugging.
+* 🎯 **One Item** = One Check – Each test case targets a single, isolated behaviour for easier tracking and debugging.
 
 
-* 🔄 Logical Flow – Sections are arranged to match the natural gameplay progression, from level start to completion.
+* 🔄 **Logical Flow** – Sections are arranged to match the natural gameplay progression, from level start to completion.
 
 
-* 📂 Categorized Structure – Checks are grouped into intuitive categories (e.g., Enemies, Traps, Items) for easier navigation and test planning.
+* 📂 **Categorized Structure** – Checks are grouped into intuitive categories (e.g., Enemies, Traps, Items) for easier navigation and test planning.
 
 
-* 🚦 Prioritization – Tests are marked by importance (High / Medium) to help testers focus on critical issues first.
+* 🚦 **Prioritization** – Tests are marked by importance (High / Medium) to help testers focus on critical issues first.
 
 
-* 🗣️ Clear and Actionable Language – All checks are written with direct, unambiguous language to reduce guesswork.
+* 🗣️ **Clear and Actionable Language** – All checks are written with direct, unambiguous language to reduce guesswork.
 
 
-* ➕ Positive and Negative Test Cases – The checklist covers both expected behaviours and scenarios where things might go wrong.
+* ➕ **Positive and Negative Test Cases** – The checklist covers both expected behaviours and scenarios where things might go wrong.
 
 
-* 🧪 Edge Cases – Special consideration is given to unusual or extreme situations that could break intended functionality.
+* 🧪 **Edge Cases** – Special consideration is given to unusual or extreme situations that could break intended functionality.
+
 
 > 🧾 [View the checklist here → TR1_Caves_Level_QA_Checklist.md](./TR1_Caves_Level_QA_Checklist.md)
 
@@ -46,11 +47,13 @@ The goal was to build a universal QA framework that can be reused and expanded t
 
 Alongside the checklist, this repository includes documented bugs encountered during playthroughs of Tomb Raider I Remastered. Each bug report follows a standardized format with:
 
+- Summary
 - Reproduction steps
 - Observed vs. expected results
 - Attached reference image(s) or video(s)
 - Severity rating
 
 These reports are intended to showcase real QA documentation practices and provide clear examples for future debugging or analysis.
+
 
 > 📄 [View bug reports here → TR1 - Bug examples.md](./TR1%20-%20Bug%20examples.md)
