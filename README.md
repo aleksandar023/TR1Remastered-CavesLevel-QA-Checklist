@@ -38,6 +38,8 @@ The goal was to build a universal QA framework that can be reused and expanded t
 
 * 🧪 Edge Cases – Special consideration is given to unusual or extreme situations that could break intended functionality.
 
+> 🧾 [View the checklist here → TR1_Caves_Level_QA_Checklist.md](./TR1_Caves_Level_QA_Checklist.md)
+
 ---
 
 ### 🐞 Bug Reports
