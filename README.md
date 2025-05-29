@@ -51,4 +51,4 @@ Alongside the checklist, this repository includes documented bugs encountered du
 
 These reports are intended to showcase real QA documentation practices and provide clear examples for future debugging or analysis.
 
-> View bugs here: [`./bugs/TR1_Bug_Reports.md`](./TR1 - Bug examples.md)
+> [TR1 - Bug examples.md](./TR1%20-%20Bug%20examples.md)
