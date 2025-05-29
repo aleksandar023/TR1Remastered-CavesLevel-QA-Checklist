@@ -49,7 +49,7 @@ Gravel and hedge textures on the garden floor are layered and displayed properly
 
 ---
 
-🐞 Bug Report: TR003 [Caves] – Black visual artifact and improper shadow visible near ceiling opening
+### 🐞 Bug Report: TR003 [Caves] – Black visual artifact and improper shadow visible near ceiling opening
 
 **Steps to Reproduce:**
 1. Launch *Tomb Raider I–III Remastered*
