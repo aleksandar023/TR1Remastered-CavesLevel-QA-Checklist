@@ -27,9 +27,9 @@ The correct corner marble floor texture tile is applied, showing two brown trian
 
 **Attachments:**  
 
-📎 [TR001_Neptune_Room_1.jpg](./images/TR001_Neptune_Room_1.jpg)
+📎 [TR003_Neptune_Room_1.jpg](./images/TR001_Neptune_Room_1.jpg)
 
-📎 [TR001_Neptune_Room_2.jpg](./images/TR001_Neptune_Room_2.jpg)
+📎 [TR003_Neptune_Room_2.jpg](./images/TR001_Neptune_Room_2.jpg)
 
 
 ---
@@ -91,6 +91,6 @@ The ceiling opening is displayed correctly, without visual artifacts and with ac
 
 **Attachment:**
 
-📎 [TR001_Neptune_Room_1.jpg](./images/TR003_Caves_1.jpg)
+📎 [TR003_Caves_1.jpg](./images/TR003_Caves_1.jpg)
 
-📎 [TR001_Neptune_Room_2.jpg](./images/TR003_Caves_2.jpg)
+📎 [TR003_Caves_2.jpg](./images/TR003_Caves_2.jpg)
