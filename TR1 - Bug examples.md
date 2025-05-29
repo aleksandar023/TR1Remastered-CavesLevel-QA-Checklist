@@ -71,6 +71,7 @@ The ceiling opening is displayed correctly, without visual artifacts and with ac
 **Severity: Trivial**
 
 **Attachment:**
+
 📎 [TR001_Neptune_Room_1.jpg](./images/TR003_Caves_1.jpg)
 
 📎 [TR001_Neptune_Room_2.jpg](./images/TR003_Caves_2.jpg)
