@@ -46,7 +46,7 @@ The goal was to build a universal QA framework that can be reused and expanded t
 * 🧪 **Edge Cases** – Special consideration is given to unusual or extreme situations that could break intended functionality.
 
 
-> 🧾 [View the checklist here → TR1_Caves_Level_QA_Checklist.md](./TR1_Caves_Level_QA_Checklist.md)
+> 🧾 [View the checklist here → TR1_Caves_Level_QA_Checklist.md](./tr1-caves-level-qa-checklist.md)
 
 ---
 
@@ -67,4 +67,4 @@ Alongside the checklist, this repository includes documented bugs encountered du
 * 🖥️ **Environment** - Describing the technical setup where the bug occurs, including platform, game version, and any relevant hardware or settings.
 
 
-> 📄 [View bug reports here → TR1 - Bug examples.md](./TR1%20-%20Bug%20examples.md)
+> 📄 [View bug reports here → TR1 - Bug examples.md](./tr1-bug-reports.md)
