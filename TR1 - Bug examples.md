@@ -33,8 +33,8 @@ The correct corner marble floor texture tile should be applied, showing two brow
 1. Launch *Tomb Raider I–III Remastered*
 2. Press `F1` to switch to Modern graphics
 3. Launch the Croft Manor level
-4. Approach the first window in the starting room.
-5. Look through the window and observe the right side of the garden floor.
+4. Approach the first window in the starting room
+5. Look through the window and observe the right side of the garden floor
 
 
 **Observed Result:**  
@@ -42,6 +42,29 @@ Z-fighting is visible on the garden floor outside the window, where gravel and h
 
 **Expected Result:**  
 Gravel and hedge textures on the garden floor are layered and displayed properly without flickering.
+
+**Severity: Trivial**
+
+**Attachment:**
+
+---
+
+🐞 Bug Report: TR003 [Caves] – Black visual artifact and improper shadow visible near ceiling opening
+
+**Steps to Reproduce:**
+1. Launch *Tomb Raider I–III Remastered*
+2. Press `F1` to switch to Modern graphics
+3. Launch the Caves level
+4. Progress until reaching the large room with a central stone column
+5. Approach the ceiling opening in the left corner of the room (when viewed from the entrance) — see attached image “Caves 1” for reference.
+6. Use the `V` key to look upward toward the ceiling opening.
+
+
+**Observed Result:**  
+A black visual artifact is visible at the edge of the ceiling opening, along with an improperly rendered shadow just below it.
+
+**Expected Result:** 
+The ceiling opening is displayed correctly, without visual artifacts and with accurate shadow casting.
 
 **Severity: Trivial**
 
