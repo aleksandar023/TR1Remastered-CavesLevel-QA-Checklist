@@ -58,7 +58,7 @@ Gravel and hedge textures on the garden floor are layered and displayed properly
 2. Press `F1` to switch to Modern graphics
 3. Launch the Caves level
 4. Progress until reaching the large room with a central stone column
-5. Approach the ceiling opening in the left corner of the room (when viewed from the entrance) — see attached image “Caves 1” for reference.
+5. Approach the ceiling opening in the left corner of the room (when viewed from the entrance) — see attached image “TR003_Caves_1” for reference.
 6. Use the `V` key to look upward toward the ceiling opening.
 
 
@@ -71,3 +71,6 @@ The ceiling opening is displayed correctly, without visual artifacts and with ac
 **Severity: Trivial**
 
 **Attachment:**
+📎 [TR001_Neptune_Room_1.jpg](./images/TR003_Caves_1.jpg)
+
+📎 [TR001_Neptune_Room_2.jpg](./images/TR003_Caves_2.jpg)
