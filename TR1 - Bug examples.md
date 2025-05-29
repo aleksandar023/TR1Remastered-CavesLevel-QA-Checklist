@@ -47,7 +47,7 @@ Gravel and hedge textures on the garden floor are layered and displayed properly
 
 **Attachment:**
 
-[▶️ TR002_Croft_Manor_1.mp4](https://drive.google.com/file/d/1ANO6FPpudg-KoVQZFpDniRPipdTBPT2I/view?usp=drive_link)
+[📎 TR002_Croft_Manor_1.mp4](https://drive.google.com/file/d/1ANO6FPpudg-KoVQZFpDniRPipdTBPT2I/view?usp=drive_link)
 
 ---
 
