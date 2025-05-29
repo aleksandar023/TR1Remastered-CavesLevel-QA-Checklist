@@ -2,7 +2,8 @@
 # TR1 Remastered - Caves Level QA Checklist
 
 > **Note**: This is a fan-made checklist created for portfolio purposes and is not affiliated with the official developers.
-🔗 [View live spreadsheet](https://docs.google.com/spreadsheets/d/1SvOtgGoGRpUR0ArjVRw9RkJJssgV6zPMWB5RZI64yxk/edit?usp=sharing)
+
+>🔗 [View the document in Google Sheets](https://docs.google.com/spreadsheets/d/1SvOtgGoGRpUR0ArjVRw9RkJJssgV6zPMWB5RZI64yxk/edit?usp=sharing)
 ---
 
 |Basic Level Functionality                                                                      | Status         |                |       |
