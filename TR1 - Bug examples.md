@@ -19,7 +19,7 @@ The correct corner marble floor texture tile should be applied, showing two brow
 
 **Severity:** Minor
 
-**Attachment:**  
+**Attachments:**  
 📎 [TR001_Neptune_Room_1.jpg](./images/TR001_Neptune_Room_1.jpg)
 
 📎 [TR001_Neptune_Room_2.jpg](./images/TR001_Neptune_Room_2.jpg)
@@ -46,7 +46,8 @@ Gravel and hedge textures on the garden floor are layered and displayed properly
 **Severity: Trivial**
 
 **Attachment:**
-[▶️ TR002_Croft_Manor_1.mp4](./images/TR002_Croft_Manor_1.mp4)
+
+[▶️ TR002_Croft_Manor_1.mp4](https://drive.google.com/file/d/1ANO6FPpudg-KoVQZFpDniRPipdTBPT2I/view?usp=drive_link)
 
 ---
 
