@@ -27,6 +27,7 @@ The correct corner marble floor texture tile should be applied, showing two brow
 
 
 
+
 ### 🐞 Bug Report: TR002 [Croft Manor] – Z-fighting issue visible on the garden floor outside the window
 
 **Steps to Reproduce:**
