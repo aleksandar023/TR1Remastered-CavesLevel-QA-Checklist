@@ -19,6 +19,12 @@ The correct corner marble floor texture tile is applied, showing two brown trian
 
 **Severity:** Minor
 
+**Environment:** 
+- Platform: PC
+- Operating System: Windows 10
+- Game Version: Tomb Raider I–III Remastered v1.01
+- Display: 1920x1080, Fullscreen
+
 **Attachments:**  
 
 📎 [TR001_Neptune_Room_1.jpg](./images/TR001_Neptune_Room_1.jpg)
@@ -44,7 +50,13 @@ Z-fighting is visible on the garden floor outside the window, where gravel and h
 **Expected Result:**  
 Gravel and hedge textures on the garden floor are layered and displayed properly without flickering.
 
-**Severity: Trivial**
+**Severity:** Trivial
+
+**Environment:** 
+- Platform: PC
+- Operating System: Windows 10
+- Game Version: Tomb Raider I–III Remastered v1.01
+- Display: 1920x1080, Fullscreen
 
 **Attachment:**
 
@@ -69,7 +81,13 @@ A black visual artifact is visible at the edge of the ceiling opening, along wit
 **Expected Result:** 
 The ceiling opening is displayed correctly, without visual artifacts and with accurate shadow casting.
 
-**Severity: Trivial**
+**Severity:** Trivial
+
+**Environment:** 
+- Platform: PC
+- Operating System: Windows 10
+- Game Version: Tomb Raider I–III Remastered v1.01
+- Display: 1920x1080, Fullscreen
 
 **Attachment:**
 
