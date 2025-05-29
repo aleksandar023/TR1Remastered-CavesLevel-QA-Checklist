@@ -1,4 +1,4 @@
-# TR1Remastered-QA-Leve-Checklist-&-Bug-Examples
+# TR1Remastered-QA-Checklist-&-Bug-Examples
 
 This checklist was created for the opening “Caves” level of the Tomb Raider 1 Remastered game, using the modernized graphics mode as the visual reference. 
 The goal was to build a universal QA framework that can be reused and expanded to test other levels in the game.
