@@ -14,7 +14,7 @@
 The first marble floor texture tile inside the Neptune Room uses an incorrect variant — the brown triangular patterns are oriented incorrectly, causing a misalignment with the adjacent tiles.
 
 **Expected Result:**  
-The correct corner marble floor texture tile should be applied, showing two brown triangle strips aligned properly along the adjacent walls.  
+The correct corner marble floor texture tile is applied, showing two brown triangle strips aligned properly along the adjacent walls.  
 *(See attached image: “TR001_Neptune_Room_2.jpg”)*
 
 **Severity:** Minor
@@ -58,7 +58,7 @@ Gravel and hedge textures on the garden floor are layered and displayed properly
 1. Launch *Tomb Raider I–III Remastered*
 2. Press `F1` to switch to Modern graphics
 3. Launch the Caves level
-4. Progress until reaching the large room with a central stone column
+4. Progress to the large room with a central stone column
 5. Approach the ceiling opening in the left corner of the room (when viewed from the entrance) — see attached image “TR003_Caves_1” for reference.
 6. Use the `V` key to look upward toward the ceiling opening.
 
