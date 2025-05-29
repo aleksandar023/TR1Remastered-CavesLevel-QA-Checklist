@@ -47,13 +47,17 @@ The goal was to build a universal QA framework that can be reused and expanded t
 
 Alongside the checklist, this repository includes documented bugs encountered during playthroughs of Tomb Raider I Remastered. Each bug report follows a standardized format with:
 
-- Summary
-- Reproduction steps
-- Observed vs. expected results
-- Attached reference image(s) or video(s)
-- Severity rating
+* 🧠 **Summary** - Providing a concise and informative title that clearly answers WHAT the bug is, WHERE it happens, and WHEN it occurs. Including relevant keywords to improve searchability in the bug-tracking system.
 
-These reports are intended to showcase real QA documentation practices and provide clear examples for future debugging or analysis.
+* 🔁 **Steps to Reproduce** - Listing clear, sequential steps that describe the exact player actions needed to trigger the bug. Starting each step with a verb and avoiding unnecessary context.
+
+* 👀 **Observed vs. expected results** - Stating clearly what actually happens and what should happen.
+  
+* 📎  **Attached reference image(s) or video(s)** - Adding visual evidence to help developers understand and reproduce the issue, using a consistent and relevant naming convention.
+  
+* ⚠️ **Severity rating** - Indicating the bug’s impact on gameplay or users to help developers prioritize the issue effectively.
+
+* 🖥️ **Environment** - Describing the technical setup where the bug occurs, including platform, game version, and any relevant hardware or settings.
 
 
 > 📄 [View bug reports here → TR1 - Bug examples.md](./TR1%20-%20Bug%20examples.md)
