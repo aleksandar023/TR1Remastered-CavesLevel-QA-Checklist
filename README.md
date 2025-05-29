@@ -1,5 +1,13 @@
 # TR1Remastered – QA Checklist & Bug Reports
 
+### 📝 Summary
+This repository presents a fan-made QA project for Tomb Raider I Remastered. It includes:
+
+* A structured, scalable QA checklist covering core gameplay mechanics, level content, and edge cases.
+
+* A collection of documented bugs, each following a consistent, professional reporting format with visual references.
+
+The goal is to demonstrate clear QA thinking, actionable reporting, and reusable test design — relevant for both game testers and developers.
 
 ### 🧠 Why Tomb Raider 1?
 Due to its recognizable mechanics and clean structure, TR1 serves as a perfect foundation for building clear, consistent, and scalable checklist. 
