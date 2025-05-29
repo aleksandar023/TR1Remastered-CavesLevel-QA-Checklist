@@ -1,4 +1,4 @@
-# TR1Remastered – QA Checklist & Bug Reports
+# TR1 Remastered – QA Checklist & Bug Reports
 
 ### 📝 Summary
 This repository presents a fan-made portfolio QA project for Tomb Raider I Remastered. It includes:
