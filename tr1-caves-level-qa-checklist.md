@@ -3,7 +3,7 @@
 
 > **Note**: This is a fan-made checklist created for portfolio purposes and is not affiliated with the official developers.
 
->🔗 [View the document in Google Sheets format](https://docs.google.com/spreadsheets/d/1SvOtgGoGRpUR0ArjVRw9RkJJssgV6zPMWB5RZI64yxk/edit?usp=sharing)
+>For better readability, please view the document in [Google Sheets format](https://docs.google.com/spreadsheets/d/1SvOtgGoGRpUR0ArjVRw9RkJJssgV6zPMWB5RZI64yxk/edit?usp=sharing)
 ---
 
 |Basic Level Functionality                                                                      | Status         |                |       |
